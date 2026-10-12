@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'AICORE_Crypto'
-repository 'https://github.com/0error-scripts/aicore_crypto'
+repository 'https://github.com/aicore-fivem/aicore_crypto'
 version '1.0.0'
 
 shared_scripts {
